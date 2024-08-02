@@ -3,7 +3,7 @@
 
 # on cmd, run 
 ```markdown
- git clone https://github.com/davistheweb/snakegame-python.git"
+ git clone https://github.com/davistheweb/snakegame-python.git
 ```
 
 ```markdown
