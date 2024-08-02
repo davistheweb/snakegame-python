@@ -2,11 +2,17 @@
 # How to use
 
 # on cmd, run 
-``` git clone https://github.com/davistheweb/snakegame-python.git" ```
+```markdown
+ git clone https://github.com/davistheweb/snakegame-python.git"
+```
 
-``` cd snakegame-python```
+```markdown
+ cd snakegame-python
+ ```
 
-``` python snake.py```
+```markdown
+ python snake.py
+ ```
 
 
 
