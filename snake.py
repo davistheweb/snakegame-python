@@ -40,7 +40,7 @@ snake_head.direction = action
 
 snake_food = turtle.Turtle()
 snake_food_color = rdm.choice(['yellow', 'green', 'tomato', 'red', 'brown'])
-snake_food_shape = rdm.choice(['triangle', 'circle', 'square', 'rectangle'])
+snake_food_shape = rdm.choice(['triangle', 'circle', 'square'])
 snake_food.speed(0)
 snake_food.color(snake_food_color)
 snake_food.shape(snake_food_shape)
