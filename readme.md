@@ -1,4 +1,13 @@
-# Boring snake game 
+# Boring snake game with python
+# How to use
+
+# on cmd, run 
+``` git clone https://github.com/davistheweb/snakegame-python.git" ```
+
+``` cd snakegame-python```
+
+``` python snake.py```
+
 
 
 ```python
